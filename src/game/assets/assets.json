@@ -1,0 +1,14 @@
+[
+  {
+    "name": "dog_idle",
+    "url": "assets/sprites/dog/idle/idle.json"
+  },
+  {
+    "name": "dog_walk",
+    "url": "assets/sprites/dog/walk/walk.json"
+  },
+  {
+    "name": "debug",
+    "url": "assets/sprites/debug_square.png"
+  }
+]

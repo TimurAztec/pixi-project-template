@@ -1,0 +1,19 @@
+{
+  "name": "pixi-project-template",
+  "version": "0.0.1",
+  "description": "Template and example of usage for PIXI.js, may use in future projects. (Probably you may call it something like a game engine)",
+  "scripts": {
+    "watch": ""
+  },
+  "devDependencies": {
+    "@types/matter-js": "^0.17.7",
+    "parcel": "^2.3.2",
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "matter-js": "^0.18.0",
+    "parcel-bundler": "^1.12.5",
+    "pixi.js": "^6.2.2",
+    "rxjs": "^7.5.4"
+  }
+}
